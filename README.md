@@ -3,4 +3,5 @@ An application that would alert drivers if they are drowsy or sleepy while drivi
 
 # Requirements
 1. Python 3.6
-1. openCV
+2. openCV
+3. Dlibs
